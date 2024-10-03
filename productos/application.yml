@@ -1,0 +1,10 @@
+server:
+  port: 8082  # Puerto específico para el servicio de productos
+
+logging:
+  level:
+    org.springframework: INFO
+
+# Configuraciones específicas para este microservicio
+product:
+  default-stock: 50

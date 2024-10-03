@@ -1,0 +1,10 @@
+server:
+  port: 8081  # Puerto específico para el servicio de usuarios
+
+logging:
+  level:
+    org.springframework: INFO
+
+# Configuraciones específicas para este microservicio
+user:
+  max-users: 1000
