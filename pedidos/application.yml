@@ -1,0 +1,10 @@
+server:
+  port: 8083  # Puerto específico para el servicio de pedidos
+
+logging:
+  level:
+    org.springframework: INFO
+
+# Configuraciones específicas para este microservicio
+order:
+  max-orders-per-user: 5

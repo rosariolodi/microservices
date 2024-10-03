@@ -1,0 +1,5 @@
+com\example\ordermanager\OrderApp.class
+com\example\ordermanager\ProductDTO.class
+com\example\ordermanager\UserDTO.class
+com\example\ordermanager\PedidoController.class
+com\example\ordermanager\Pedido.class
